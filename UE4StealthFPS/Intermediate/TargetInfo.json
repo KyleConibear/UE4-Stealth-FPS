@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FPSGame",
+			"Path": "C:\\Users\\Kyle Conibear\\Documents\\GitHub\\UE4-Stealth-FPS\\UE4StealthFPS\\Source\\FPSGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FPSGameEditor",
+			"Path": "C:\\Users\\Kyle Conibear\\Documents\\GitHub\\UE4-Stealth-FPS\\UE4StealthFPS\\Source\\FPSGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

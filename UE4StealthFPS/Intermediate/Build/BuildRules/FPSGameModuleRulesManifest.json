@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Kyle Conibear\\Documents\\GitHub\\UE4-Stealth-FPS\\UE4StealthFPS\\Source\\FPSGame\\FPSGame.Build.cs",
+		"C:\\Users\\Kyle Conibear\\Documents\\GitHub\\UE4-Stealth-FPS\\UE4StealthFPS\\Source\\FPSGame.Target.cs",
+		"C:\\Users\\Kyle Conibear\\Documents\\GitHub\\UE4-Stealth-FPS\\UE4StealthFPS\\Source\\FPSGameEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.0"
+}
