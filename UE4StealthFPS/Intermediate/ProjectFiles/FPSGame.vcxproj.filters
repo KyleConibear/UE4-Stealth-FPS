@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\FPSGame.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{EEB520E3-E231-49BE-A624-0F12240A1932}</UniqueIdentifier>
+      <UniqueIdentifier>{EB850E8B-3329-475A-8481-4C4CC48F4F1B}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\FPSGame.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{38F82874-9F9E-4CED-A2D8-036800A96DE7}</UniqueIdentifier>
+      <UniqueIdentifier>{BA72AC9B-4D65-4A68-89A7-78FE71AB73ED}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -27,7 +27,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\FPSGame">
-      <UniqueIdentifier>{28BAEAC6-380A-4B91-8DC4-937D86A71D65}</UniqueIdentifier>
+      <UniqueIdentifier>{08E602C0-54EA-43B9-8166-7D9BAE0995D6}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\FPSGame\FPSGame.Build.cs">
       <Filter>Source\FPSGame</Filter>
@@ -39,9 +39,12 @@
       <Filter>Source\FPSGame</Filter>
     </ClInclude>
     <Filter Include="Source\FPSGame\Private">
-      <UniqueIdentifier>{8CDF0BE9-3450-4788-ADCA-699196E22DDA}</UniqueIdentifier>
+      <UniqueIdentifier>{773A3846-7961-420F-AE5A-1467ADA24153}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\FPSGame\Private\FPSCharacter.cpp">
+      <Filter>Source\FPSGame\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\FPSGame\Private\FPSExtractionZone.cpp">
       <Filter>Source\FPSGame\Private</Filter>
     </ClCompile>
     <ClCompile Include="..\..\Source\FPSGame\Private\FPSGameMode.cpp">
@@ -57,9 +60,12 @@
       <Filter>Source\FPSGame\Private</Filter>
     </ClCompile>
     <Filter Include="Source\FPSGame\Public">
-      <UniqueIdentifier>{1E7A7D34-A190-4B7E-95C2-494952185052}</UniqueIdentifier>
+      <UniqueIdentifier>{756CE91E-DA7C-4180-9914-28EE8F914579}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Source\FPSGame\Public\FPSCharacter.h">
+      <Filter>Source\FPSGame\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\FPSGame\Public\FPSExtractionZone.h">
       <Filter>Source\FPSGame\Public</Filter>
     </ClInclude>
     <ClInclude Include="..\..\Source\FPSGame\Public\FPSGameMode.h">

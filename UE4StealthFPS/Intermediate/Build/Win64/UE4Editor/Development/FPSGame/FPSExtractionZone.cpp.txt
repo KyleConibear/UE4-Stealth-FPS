@@ -1,0 +1,7 @@
+C:\Users\Kyle Conibear\Documents\GitHub\UE4-Stealth-FPS\UE4StealthFPS\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\Definitions.FPSGame.h
+C:\Users\Kyle Conibear\Documents\GitHub\UE4-Stealth-FPS\UE4StealthFPS\Source\FPSGame\Public\FPSExtractionZone.h
+C:\Users\Kyle Conibear\Documents\GitHub\UE4-Stealth-FPS\UE4StealthFPS\Intermediate\Build\Win64\UE4Editor\Inc\FPSGame\FPSExtractionZone.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Components/BoxComponent.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BoxComponent.generated.h
